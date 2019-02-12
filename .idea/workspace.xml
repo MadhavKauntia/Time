@@ -2,7 +2,100 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3e1479b-4708-4564-a318-422b2b8bd331" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/snipping-tool/snipping_tool.py" beforeDir="false" afterPath="$PROJECT_DIR$/snipping-tool/snipping_tool.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Boxes/imageToText.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boxes/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Boxes/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boxes/10.png" beforeDir="false" afterPath="$PROJECT_DIR$/Boxes/10.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boxes/11.png" beforeDir="false" afterPath="$PROJECT_DIR$/Boxes/11.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boxes/12.png" beforeDir="false" afterPath="$PROJECT_DIR$/Boxes/12.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boxes/13.png" beforeDir="false" afterPath="$PROJECT_DIR$/Boxes/13.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boxes/14.png" beforeDir="false" afterPath="$PROJECT_DIR$/Boxes/14.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boxes/15.png" beforeDir="false" afterPath="$PROJECT_DIR$/Boxes/15.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boxes/16.png" beforeDir="false" afterPath="$PROJECT_DIR$/Boxes/16.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boxes/17.png" beforeDir="false" afterPath="$PROJECT_DIR$/Boxes/17.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boxes/18.png" beforeDir="false" afterPath="$PROJECT_DIR$/Boxes/18.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boxes/19.png" beforeDir="false" afterPath="$PROJECT_DIR$/Boxes/19.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boxes/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/Boxes/2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boxes/20.png" beforeDir="false" afterPath="$PROJECT_DIR$/Boxes/20.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boxes/21.png" beforeDir="false" afterPath="$PROJECT_DIR$/Boxes/21.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boxes/22.png" beforeDir="false" afterPath="$PROJECT_DIR$/Boxes/22.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boxes/23.png" beforeDir="false" afterPath="$PROJECT_DIR$/Boxes/23.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boxes/24.png" beforeDir="false" afterPath="$PROJECT_DIR$/Boxes/24.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boxes/25.png" beforeDir="false" afterPath="$PROJECT_DIR$/Boxes/25.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boxes/26.png" beforeDir="false" afterPath="$PROJECT_DIR$/Boxes/26.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boxes/27.png" beforeDir="false" afterPath="$PROJECT_DIR$/Boxes/27.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boxes/28.png" beforeDir="false" afterPath="$PROJECT_DIR$/Boxes/28.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boxes/29.png" beforeDir="false" afterPath="$PROJECT_DIR$/Boxes/29.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boxes/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/Boxes/3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boxes/30.png" beforeDir="false" afterPath="$PROJECT_DIR$/Boxes/30.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boxes/31.png" beforeDir="false" afterPath="$PROJECT_DIR$/Boxes/31.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boxes/32.png" beforeDir="false" afterPath="$PROJECT_DIR$/Boxes/32.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boxes/33.png" beforeDir="false" afterPath="$PROJECT_DIR$/Boxes/33.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boxes/34.png" beforeDir="false" afterPath="$PROJECT_DIR$/Boxes/34.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boxes/35.png" beforeDir="false" afterPath="$PROJECT_DIR$/Boxes/35.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boxes/36.png" beforeDir="false" afterPath="$PROJECT_DIR$/Boxes/36.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boxes/37.png" beforeDir="false" afterPath="$PROJECT_DIR$/Boxes/37.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boxes/38.png" beforeDir="false" afterPath="$PROJECT_DIR$/Boxes/38.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boxes/39.png" beforeDir="false" afterPath="$PROJECT_DIR$/Boxes/39.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boxes/4.png" beforeDir="false" afterPath="$PROJECT_DIR$/Boxes/4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boxes/40.png" beforeDir="false" afterPath="$PROJECT_DIR$/Boxes/40.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boxes/41.png" beforeDir="false" afterPath="$PROJECT_DIR$/Boxes/41.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boxes/42.png" beforeDir="false" afterPath="$PROJECT_DIR$/Boxes/42.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boxes/43.png" beforeDir="false" afterPath="$PROJECT_DIR$/Boxes/43.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boxes/44.png" beforeDir="false" afterPath="$PROJECT_DIR$/Boxes/44.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boxes/45.png" beforeDir="false" afterPath="$PROJECT_DIR$/Boxes/45.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boxes/46.png" beforeDir="false" afterPath="$PROJECT_DIR$/Boxes/46.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boxes/47.png" beforeDir="false" afterPath="$PROJECT_DIR$/Boxes/47.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boxes/48.png" beforeDir="false" afterPath="$PROJECT_DIR$/Boxes/48.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boxes/49.png" beforeDir="false" afterPath="$PROJECT_DIR$/Boxes/49.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boxes/5.png" beforeDir="false" afterPath="$PROJECT_DIR$/Boxes/5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boxes/50.png" beforeDir="false" afterPath="$PROJECT_DIR$/Boxes/50.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boxes/51.png" beforeDir="false" afterPath="$PROJECT_DIR$/Boxes/51.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boxes/52.png" beforeDir="false" afterPath="$PROJECT_DIR$/Boxes/52.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boxes/53.png" beforeDir="false" afterPath="$PROJECT_DIR$/Boxes/53.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boxes/54.png" beforeDir="false" afterPath="$PROJECT_DIR$/Boxes/54.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boxes/55.png" beforeDir="false" afterPath="$PROJECT_DIR$/Boxes/55.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boxes/56.png" beforeDir="false" afterPath="$PROJECT_DIR$/Boxes/56.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boxes/57.png" beforeDir="false" afterPath="$PROJECT_DIR$/Boxes/57.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boxes/58.png" beforeDir="false" afterPath="$PROJECT_DIR$/Boxes/58.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boxes/59.png" beforeDir="false" afterPath="$PROJECT_DIR$/Boxes/59.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boxes/6.png" beforeDir="false" afterPath="$PROJECT_DIR$/Boxes/6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boxes/60.png" beforeDir="false" afterPath="$PROJECT_DIR$/Boxes/60.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boxes/61.png" beforeDir="false" afterPath="$PROJECT_DIR$/Boxes/61.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boxes/62.png" beforeDir="false" afterPath="$PROJECT_DIR$/Boxes/62.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boxes/63.png" beforeDir="false" afterPath="$PROJECT_DIR$/Boxes/63.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boxes/64.png" beforeDir="false" afterPath="$PROJECT_DIR$/Boxes/64.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boxes/65.png" beforeDir="false" afterPath="$PROJECT_DIR$/Boxes/65.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boxes/66.png" beforeDir="false" afterPath="$PROJECT_DIR$/Boxes/66.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boxes/67.png" beforeDir="false" afterPath="$PROJECT_DIR$/Boxes/67.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boxes/68.png" beforeDir="false" afterPath="$PROJECT_DIR$/Boxes/68.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boxes/69.png" beforeDir="false" afterPath="$PROJECT_DIR$/Boxes/69.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boxes/7.png" beforeDir="false" afterPath="$PROJECT_DIR$/Boxes/7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boxes/70.png" beforeDir="false" afterPath="$PROJECT_DIR$/Boxes/70.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boxes/71.png" beforeDir="false" afterPath="$PROJECT_DIR$/Boxes/71.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boxes/72.png" beforeDir="false" afterPath="$PROJECT_DIR$/Boxes/72.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boxes/73.png" beforeDir="false" afterPath="$PROJECT_DIR$/Boxes/73.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boxes/74.png" beforeDir="false" afterPath="$PROJECT_DIR$/Boxes/74.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boxes/75.png" beforeDir="false" afterPath="$PROJECT_DIR$/Boxes/75.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boxes/76.png" beforeDir="false" afterPath="$PROJECT_DIR$/Boxes/76.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boxes/77.png" beforeDir="false" afterPath="$PROJECT_DIR$/Boxes/77.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boxes/78.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boxes/79.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boxes/8.png" beforeDir="false" afterPath="$PROJECT_DIR$/Boxes/8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boxes/80.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boxes/81.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boxes/82.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boxes/83.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boxes/9.png" beforeDir="false" afterPath="$PROJECT_DIR$/Boxes/9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Image_bin.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Image_bin.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selection_001.png" beforeDir="false" afterPath="$PROJECT_DIR$/Selection_001.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selection_005.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selection_006.png" beforeDir="false" afterPath="$PROJECT_DIR$/Selection_006.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/celltracker.py" beforeDir="false" afterPath="$PROJECT_DIR$/celltracker.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/horizontal_lines.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/horizontal_lines.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img_final_bin.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img_final_bin.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/verticle_lines.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/verticle_lines.jpg" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,36 +105,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/celltracker.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Boxes/imageToText.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="520">
-              <caret line="81" selection-start-line="81" selection-end-line="81" />
+            <state relative-caret-position="308">
+              <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
               <folding>
-                <element signature="e#0#10#0" expanded="true" />
+                <element signature="e#0#18#0" expanded="true" />
               </folding>
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Boxes/8.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Boxes/7.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Selection_005.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Selection_001.png">
-          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -50,10 +123,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/celltracker.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="17" selection-start-column="17" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/watcher.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="341">
-              <caret line="37" column="34" selection-start-line="37" selection-start-column="34" selection-end-line="37" selection-end-column="34" />
+            <state relative-caret-position="342">
+              <caret line="43" selection-start-line="43" selection-end-line="43" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -71,7 +153,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/snipping-tool" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -80,14 +162,14 @@
         <option value="$USER_HOME$/PycharmProjects/GKG/gameDev.py" />
         <option value="$PROJECT_DIR$/snipping-tool/snipping_tool.py" />
         <option value="$PROJECT_DIR$/celltracker.py" />
+        <option value="$PROJECT_DIR$/Boxes/imageToText.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="10" />
-    <option name="y" value="47" />
-    <option name="width" value="1346" />
-    <option name="height" value="701" />
+    <option name="y" value="25" />
+    <option name="width" value="683" />
+    <option name="height" value="743" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -95,7 +177,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -107,6 +188,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -125,7 +207,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.watcher">
+  <component name="RunManager" selected="Python.celltracker">
     <configuration name="celltracker" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Devloping my own OCR" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -147,7 +229,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="gameDev" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="imageToText" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Devloping my own OCR" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -155,11 +237,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/PycharmProjects/GKG" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Boxes" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/PycharmProjects/GKG/gameDev.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Boxes/imageToText.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -233,11 +315,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.watcher" />
         <item itemvalue="Python.celltracker" />
+        <item itemvalue="Python.imageToText" />
+        <item itemvalue="Python.watcher" />
         <item itemvalue="Python.snipping_tool" />
         <item itemvalue="Python.multi_snipping_tool" />
-        <item itemvalue="Python.gameDev" />
       </list>
     </recent_temporary>
   </component>
@@ -256,15 +338,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1366" height="743" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24944155" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19434103" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32899022" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.25895765" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3990228" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -276,6 +357,25 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19434103" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.25895765" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3990228" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32899022" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$USER_HOME$/PycharmProjects/tess/regeximprov.py">
@@ -291,39 +391,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/snipping-tool/multi_snipping_tool.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/snipping-tool/capture.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/snipping-tool/snipping_tool.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/snipping-tool/multi_snipping_tool.py" />
+    <entry file="file://$PROJECT_DIR$/snipping-tool/capture.png" />
+    <entry file="file://$PROJECT_DIR$/snipping-tool/snipping_tool.py" />
     <entry file="file://$PROJECT_DIR$/verticle_lines.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Image_bin.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/horizontal_lines.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img_final_bin.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Boxes/21.png">
@@ -371,40 +442,60 @@
     <entry file="file://$PROJECT_DIR$/Boxes/1.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/celltracker.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="81" selection-start-line="81" selection-end-line="81" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/watcher.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="37" column="34" selection-start-line="37" selection-start-column="34" selection-end-line="37" selection-end-column="34" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Boxes/8.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Boxes/7.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Selection_006.png">
+    <entry file="file://$PROJECT_DIR$/Selection_005.png" />
+    <entry file="file://$PROJECT_DIR$/capture.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Selection_005.png">
+    <entry file="file://$PROJECT_DIR$/horizontal_lines.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img_final_bin.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Selection_001.png">
       <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Selection_003.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Image_bin.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Selection_006.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/celltracker.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="17" selection-start-column="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/watcher.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Boxes/imageToText.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
 </project>

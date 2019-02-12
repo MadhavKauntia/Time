@@ -1,7 +1,9 @@
+import scipy.misc
 import cv2
 import numpy as np
 import argparse
-import imutils
+
+from PIL import Image
 
 
 def sort_contours(cnts, method):
@@ -39,7 +41,7 @@ def box_extraction(img_for_box_extraction_path, cropped_dir_path):
     cv2.imwrite("Image_bin.jpg", img_bin)
 
     # Defining a kernel length
-    kernel_length = np.array(img).shape[1] // 40
+    kernel_length = np.array(img).shape[1] // 100
 
     # A verticle kernel of (1 X kernel_length), which will detect all the verticle lines from the image.
     verticle_kernel = cv2.getStructuringElement(cv2.MORPH_RECT, (1, kernel_length))
@@ -73,7 +75,7 @@ def box_extraction(img_for_box_extraction_path, cropped_dir_path):
     contours, hierarchy = cv2.findContours(
         img_final_bin, cv2.RETR_TREE, cv2.CHAIN_APPROX_SIMPLE)
     # Sort all the contours by top to bottom.
-    (contours, boundingBoxes) = sort_contours(contours, method="top-to-bottom")
+    (contours, boundingBoxes) = sort_contours(contours, method="right-to-left")
 
     idx = 0
     for c in contours:
@@ -86,4 +88,11 @@ def box_extraction(img_for_box_extraction_path, cropped_dir_path):
         cv2.imwrite(cropped_dir_path + str(idx) + '.png', new_img)
 
 
-box_extraction("Selection_001.png", "./Boxes/")
+img = "Selection_006.png"
+im = Image.open(img)
+im_array = np.asarray(im)
+im_inverse = 255 - im_array
+im_result = scipy.misc.toimage(im_inverse)
+new_size = tuple(3 * x for x in im_result.size)
+im = im.resize(new_size, Image.ANTIALIAS)
+box_extraction(img, "./Boxes/")
