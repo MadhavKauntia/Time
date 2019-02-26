@@ -4,7 +4,7 @@ from PIL import Image
 import scipy.misc
 import cv2
 s = ""
-for i in range(0, 71):
+for i in range(70, 1, -1):
     img = (str)(i + 1) + ".png"
     im = Image.open(img)
     im_array = np.asarray(im)
@@ -12,6 +12,6 @@ for i in range(0, 71):
     im_result = scipy.misc.toimage(im_inverse)
     new_size = tuple(3 * x for x in im_result.size)
     im = im.resize(new_size, Image.ANTIALIAS)
-    s = s + ' ' + pytesseract.image_to_string(im)
+    print(pytesseract.image_to_string(im))
 
-print(s)
+

@@ -77,15 +77,15 @@ def box_extraction(img_for_box_extraction_path, cropped_dir_path):
     # Sort all the contours by top to bottom.
     (contours, boundingBoxes) = sort_contours(contours, method="right-to-left")
 
-    idx = 0
+
     for c in contours:
         # Returns the location and width,height for every contour
         x, y, w, h = cv2.boundingRect(c)
-
+        # print(x, y, w, h)
         # If the box height is greater then 20, widht is >80, then only save it as a box in "cropped/" folder.
-        idx += 1
         new_img = img[y:y + h, x:x + w]
-        cv2.imwrite(cropped_dir_path + str(idx) + '.png', new_img)
+        cv2.imwrite(cropped_dir_path + str(str(x) + 'x1,' + str(y) + 'y1,' + str(x + w) + 'x2,' + str(y + h) + 'y2')
+                    + '.png', new_img)
 
 
 img = "Selection_006.png"
