@@ -88,7 +88,7 @@ def box_extraction(img_for_box_extraction_path, cropped_dir_path):
                     + '.png', new_img)
 
 
-img = "Selection_006.png"
+img = "Selection_002.png"
 im = Image.open(img)
 im_array = np.asarray(im)
 im_inverse = 255 - im_array
