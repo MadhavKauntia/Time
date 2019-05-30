@@ -92,7 +92,7 @@ img = "Selection_002.png"
 im = Image.open(img)
 im_array = np.asarray(im)
 im_inverse = 255 - im_array
-im_result = scipy.misc.toimage(im_inverse)
+im_result = Image.fromarray(im_inverse)
 new_size = tuple(3 * x for x in im_result.size)
 im = im.resize(new_size, Image.ANTIALIAS)
 box_extraction(img, "./Boxes/")
